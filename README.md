@@ -1,5 +1,8 @@
 # Modelling environment concentrations of pollutants COVID
+Please cite this paper:
 
+Lovrić M, Pavlović K, Vuković M, et al (2020) Understanding the true effects of the COVID-19 lockdown on air pollution by means of machine learning.
+Environ Pollut 115900. https://doi.org/10.1016/j.envpol.2020.115900
 
 
 ## Project structure
